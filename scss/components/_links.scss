@@ -1,0 +1,13 @@
+.link {
+    color: var(--color-primary-light);
+    text-decoration: none;
+    text-align: center;
+    font-style: normal;
+    transition: color 0.3s;
+}
+
+.link:hover {
+    color: var(--color-brand-normal);
+    text-align: center;
+    font-style: normal;
+}
